@@ -1,6 +1,7 @@
 # Refactoring-existing-code
 refactoring an existing code that it has accessibility and is sematic
 
+[click here for a live website]()
 
 ## Description
 
@@ -9,5 +10,5 @@ So this website didnt have any structure and accessability in the code.so i went
 
 ## Visuals
 
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
+![refactor 1](https://github.com/DillenGrant/Refactoring-existing-code/assets/141671652/62c17836-6698-46b0-bbcc-7ea387d37d16)
+![refactor 2](https://github.com/DillenGrant/Refactoring-existing-code/assets/141671652/10a00ab7-49f5-496a-8de4-942b76c5ad31)
